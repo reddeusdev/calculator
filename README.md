@@ -17,4 +17,4 @@ Prosta kalkulator z historią działań
 
 ## Demo
 
-Insert gif or link to demo
+https://reddeusdev.github.io/calculator/
